@@ -1,0 +1,6 @@
+pytest==8.3.4
+openai==1.70.0
+torch~=2.6.0
+sentence-transformers~=4.0.2
+matplotlib==3.10.0
+pytest_bdd==8.1.0
